@@ -1,6 +1,6 @@
 # Can you predict a tennis player's career earnings based on their profile?
 
-**Contributors:** Shariq Imran Hassan, Nelson Li, Sanidhya Singh, Logan Hale
+**Contributors:** Nelson Li, Shariq Imran Hassan, Sanidhya Singh, Logan Hale
 
 **Project Goal:** Formulate a Predictive Question and answer it using a simple classfier and regression model 
 
